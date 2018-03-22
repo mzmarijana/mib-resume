@@ -1507,7 +1507,7 @@ li.dropdown:hover .tw-mega-menu {
   background-repeat: no-repeat;
   background-position: bottom center;
   content: "";
-  background-image: url("../images/features/wave.png");
+  background-image: url("../images/wave.png");
   z-index: -1;
 }
 
